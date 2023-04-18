@@ -1,16 +1,33 @@
-### Hi there 👋
+<h1>Hi there!:raised_hand_with_fingers_splayed:</h1>
+<ul>
+<li>I'm a frontend developer</li>
+<li>I'm teaching programming at online-school "Hello World"</li>
+<li>Based in Saint-Petersburg</li>
+</ul>
 
-<!--
-**EvilMikado/EvilMikado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Socials :speech_balloon:</h2>
+<div>
+  <a href="https://www.linkedin.com/in/sultanaliyev/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://t.me/evilmikado">
+    <img src="https://img.shields.io/badge/telegram-0088cc.svg?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
+  </a>
+  <a href="https://vk.com/evilmikado">
+    <img src="https://img.shields.io/badge/vk-4C75A3?logo=vk&logoColor=white&style=for-the-badge" alt="Vk Badge"/>
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<h2>Tech stack :desktop_computer:</h2>
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Stats :fire:</h2>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evilmikado&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Sultan's GitHub stats](https://github-readme-stats.vercel.app/api?username=evilmikado&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
