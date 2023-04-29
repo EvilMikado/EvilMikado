@@ -1,3 +1,4 @@
+<img src="./banner.png" alt="Sultan Aliyev banner" />
 <h1>Hi there!:raised_hand_with_fingers_splayed:</h1>
 <ul>
 <li>I'm a frontend developer</li>
