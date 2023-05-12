@@ -17,6 +17,9 @@
   <a href="https://vk.com/evilmikado">
     <img src="https://img.shields.io/badge/vk-4C75A3?logo=vk&logoColor=white&style=for-the-badge" alt="Vk Badge"/>
   </a>
+    <a href="https://discord.com/users/404303624588623872/">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  </a>
 </div>
 
 <h2>Tech stack :desktop_computer:</h2>
